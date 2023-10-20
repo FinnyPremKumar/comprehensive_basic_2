@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="7" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-20T01:55:55 IST" name="Suite" finished-at="2023-10-20T01:56:17 IST" duration-ms="22072">
+    <groups>
+    </groups>
+    <test started-at="2023-10-20T01:55:55 IST" name="Test" finished-at="2023-10-20T01:56:17 IST" duration-ms="22072">
+      <class name="Techademy.Assignment.Question5_1">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Techademy.Assignment.Question5_1@57af006c]" started-at="2023-10-20T01:55:55 IST" name="setUp" finished-at="2023-10-20T01:56:01 IST" duration-ms="5546" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testAutomationAnywhereLogo()[pri:1, instance:Techademy.Assignment.Question5_1@57af006c]" started-at="2023-10-20T01:56:01 IST" name="testAutomationAnywhereLogo" finished-at="2023-10-20T01:56:01 IST" duration-ms="516" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAutomationAnywhereLogo -->
+        <test-method signature="testRequestDemoButton()[pri:2, instance:Techademy.Assignment.Question5_1@57af006c]" started-at="2023-10-20T01:56:01 IST" name="testRequestDemoButton" finished-at="2023-10-20T01:56:01 IST" duration-ms="277" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRequestDemoButton -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Techademy.Assignment.Question5_1@57af006c]" started-at="2023-10-20T01:56:01 IST" name="tearDown" finished-at="2023-10-20T01:56:02 IST" duration-ms="357" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Techademy.Assignment.Question5_1 -->
+      <class name="Techademy.Assignment.Question5_2">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Techademy.Assignment.Question5_2@6bedbc4d]" started-at="2023-10-20T01:56:02 IST" name="setUp" finished-at="2023-10-20T01:56:05 IST" duration-ms="3384" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testProductsLink()[pri:1, instance:Techademy.Assignment.Question5_2@6bedbc4d]" started-at="2023-10-20T01:56:05 IST" name="testProductsLink" finished-at="2023-10-20T01:56:09 IST" duration-ms="4293" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testProductsLink -->
+        <test-method signature="testResourcesLink()[pri:3, instance:Techademy.Assignment.Question5_2@6bedbc4d]" started-at="2023-10-20T01:56:09 IST" name="testResourcesLink" finished-at="2023-10-20T01:56:11 IST" duration-ms="1991" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testResourcesLink -->
+        <test-method signature="testBeyondRPALink()[pri:4, instance:Techademy.Assignment.Question5_2@6bedbc4d]" started-at="2023-10-20T01:56:11 IST" name="testBeyondRPALink" finished-at="2023-10-20T01:56:14 IST" duration-ms="2707" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBeyondRPALink -->
+        <test-method signature="testCompanyLink()[pri:5, instance:Techademy.Assignment.Question5_2@6bedbc4d]" started-at="2023-10-20T01:56:14 IST" name="testCompanyLink" finished-at="2023-10-20T01:56:17 IST" duration-ms="2545" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCompanyLink -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Techademy.Assignment.Question5_2@6bedbc4d]" started-at="2023-10-20T01:56:17 IST" name="tearDown" finished-at="2023-10-20T01:56:17 IST" duration-ms="369" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Techademy.Assignment.Question5_2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
